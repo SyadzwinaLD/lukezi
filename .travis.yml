@@ -28,7 +28,7 @@ deploy:
   api_key: $TOKEN
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
-    repo: SyadzwinaLD/buff
+    repo: SyadzwinaLD/lukezi
     all_branches: true
 
 
